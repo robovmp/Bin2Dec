@@ -1,0 +1,2 @@
+module bin2de {
+}
